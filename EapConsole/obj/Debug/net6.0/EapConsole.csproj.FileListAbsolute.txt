@@ -1,0 +1,15 @@
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\bin\Debug\net6.0\EapConsole.exe
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\bin\Debug\net6.0\EapConsole.deps.json
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\bin\Debug\net6.0\EapConsole.runtimeconfig.json
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\bin\Debug\net6.0\EapConsole.dll
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\bin\Debug\net6.0\EapConsole.pdb
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\EapConsole.csproj.AssemblyReference.cache
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\EapConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\EapConsole.AssemblyInfoInputs.cache
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\EapConsole.AssemblyInfo.cs
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\EapConsole.csproj.CoreCompileInputs.cache
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\EapConsole.dll
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\refint\EapConsole.dll
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\EapConsole.pdb
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\EapConsole.genruntimeconfig.cache
+C:\Users\nirza\RiderProjects\EapConsole\EapConsole\obj\Debug\net6.0\ref\EapConsole.dll
